@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MrCatIsMe/MrCatIsMe/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
