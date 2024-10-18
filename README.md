@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Nguyễn Nhật Hào<br>📍 Location: Thu Dau Mot University<br>📧 Email: 2124802010697@student.tdmu.edu.vn<br>📞 Phone: 0941608937<br>--------------------------------------------------------------------------------------------------------------------------------------------------------<br>📚 Currently learning: Currently learning [Programming languages, frameworks, or technologies]<br>🎯 Goals: <br>* Contribute to open-source projects<br>* Build a personal website<br>* Learn a new programming language.<br>🎲 Fun fact: I love playing video games in my free time.</p>
+<p align="left">Nguyễn Nhật Hào<br>📍 Location: Thu Dau Mot University<br>📧 Email: 2124802010697@student.tdmu.edu.vn<br>📞 Phone: 0941608937<br>-------------------------------------------------------------------------------------------------------------------------------------------------------<br>📚 Currently learning: Currently learning [Programming languages, frameworks, or technologies]<br>🎯 Goals: <br>* Contribute to open-source projects<br>* Build a personal website<br>* Learn a new programming language.<br>🎲 Fun fact: I love playing video games in my free time.</p>
 
 ###
 
